@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\c aytaçhoca\DAteTimeAndTimeSpan\DAteTimeAndTimeSpan\bin\Debug\DAteTimeAndTimeSpan.exe.config
+C:\Users\Yonca\Desktop\c aytaçhoca\DAteTimeAndTimeSpan\DAteTimeAndTimeSpan\bin\Debug\DAteTimeAndTimeSpan.exe
+C:\Users\Yonca\Desktop\c aytaçhoca\DAteTimeAndTimeSpan\DAteTimeAndTimeSpan\bin\Debug\DAteTimeAndTimeSpan.pdb
+C:\Users\Yonca\Desktop\c aytaçhoca\DAteTimeAndTimeSpan\DAteTimeAndTimeSpan\obj\Debug\DAteTimeAndTimeSpan.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\c aytaçhoca\DAteTimeAndTimeSpan\DAteTimeAndTimeSpan\obj\Debug\DAteTimeAndTimeSpan.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\c aytaçhoca\DAteTimeAndTimeSpan\DAteTimeAndTimeSpan\obj\Debug\DAteTimeAndTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\c aytaçhoca\DAteTimeAndTimeSpan\DAteTimeAndTimeSpan\obj\Debug\DAteTimeAndTimeSpan.exe
+C:\Users\Yonca\Desktop\c aytaçhoca\DAteTimeAndTimeSpan\DAteTimeAndTimeSpan\obj\Debug\DAteTimeAndTimeSpan.pdb
