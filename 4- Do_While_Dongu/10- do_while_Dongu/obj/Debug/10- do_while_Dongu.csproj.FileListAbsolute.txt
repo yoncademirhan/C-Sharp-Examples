@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\10- do_while_Dongu\10- do_while_Dongu\bin\Debug\10- do_while_Dongu.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\10- do_while_Dongu\10- do_while_Dongu\bin\Debug\10- do_while_Dongu.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\10- do_while_Dongu\10- do_while_Dongu\bin\Debug\10- do_while_Dongu.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\10- do_while_Dongu\10- do_while_Dongu\obj\Debug\10- do_while_Dongu.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\10- do_while_Dongu\10- do_while_Dongu\obj\Debug\10- do_while_Dongu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\10- do_while_Dongu\10- do_while_Dongu\obj\Debug\10- do_while_Dongu.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\10- do_while_Dongu\10- do_while_Dongu\obj\Debug\10- do_while_Dongu.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\10- do_while_Dongu\10- do_while_Dongu\obj\Debug\10- do_while_Dongu.pdb
