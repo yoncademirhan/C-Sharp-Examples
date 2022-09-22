@@ -1,0 +1,16 @@
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\try_catch\try_catch\bin\Debug\try_catch.exe.config
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\try_catch\try_catch\bin\Debug\try_catch.exe
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\try_catch\try_catch\bin\Debug\try_catch.pdb
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\try_catch\try_catch\obj\Debug\try_catch.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\try_catch\try_catch\obj\Debug\try_catch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\try_catch\try_catch\obj\Debug\try_catch.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\try_catch\try_catch\obj\Debug\try_catch.exe
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\try_catch\try_catch\obj\Debug\try_catch.pdb
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ornekler\5- Try_Catch\try_catch\bin\Debug\try_catch.exe.config
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ornekler\5- Try_Catch\try_catch\bin\Debug\try_catch.exe
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ornekler\5- Try_Catch\try_catch\bin\Debug\try_catch.pdb
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ornekler\5- Try_Catch\try_catch\obj\Debug\try_catch.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ornekler\5- Try_Catch\try_catch\obj\Debug\try_catch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ornekler\5- Try_Catch\try_catch\obj\Debug\try_catch.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ornekler\5- Try_Catch\try_catch\obj\Debug\try_catch.exe
+C:\Users\Yonca\Desktop\GITHUB\gitHub_Ornekler\5- Try_Catch\try_catch\obj\Debug\try_catch.pdb
