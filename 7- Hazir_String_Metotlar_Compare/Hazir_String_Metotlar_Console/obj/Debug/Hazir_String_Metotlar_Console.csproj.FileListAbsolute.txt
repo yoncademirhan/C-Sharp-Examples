@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Console\Hazir_String_Metotlar_Console\bin\Debug\Hazir_String_Metotlar_Console.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Console\Hazir_String_Metotlar_Console\bin\Debug\Hazir_String_Metotlar_Console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Console\Hazir_String_Metotlar_Console\bin\Debug\Hazir_String_Metotlar_Console.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Console\Hazir_String_Metotlar_Console\obj\Debug\Hazir_String_Metotlar_Console.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Console\Hazir_String_Metotlar_Console\obj\Debug\Hazir_String_Metotlar_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Console\Hazir_String_Metotlar_Console\obj\Debug\Hazir_String_Metotlar_Console.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Console\Hazir_String_Metotlar_Console\obj\Debug\Hazir_String_Metotlar_Console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Console\Hazir_String_Metotlar_Console\obj\Debug\Hazir_String_Metotlar_Console.pdb
