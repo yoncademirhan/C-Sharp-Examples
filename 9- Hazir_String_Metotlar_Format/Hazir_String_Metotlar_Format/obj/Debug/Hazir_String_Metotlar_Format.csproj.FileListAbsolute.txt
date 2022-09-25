@@ -1,0 +1,16 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\bin\Debug\Hazir_String_Metotlar_Format.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\bin\Debug\Hazir_String_Metotlar_Format.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\bin\Debug\Hazir_String_Metotlar_Format.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\7- Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\bin\Debug\Hazir_String_Metotlar_Format.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\7- Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\bin\Debug\Hazir_String_Metotlar_Format.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\7- Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\bin\Debug\Hazir_String_Metotlar_Format.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\7- Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\7- Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\7- Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\7- Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\7- Hazir_String_Metotlar_Format\Hazir_String_Metotlar_Format\obj\Debug\Hazir_String_Metotlar_Format.pdb
