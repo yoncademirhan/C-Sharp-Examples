@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Concat\Hazir_String_Metotlar_Concat\bin\Debug\Hazir_String_Metotlar_Concat.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Concat\Hazir_String_Metotlar_Concat\bin\Debug\Hazir_String_Metotlar_Concat.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Concat\Hazir_String_Metotlar_Concat\bin\Debug\Hazir_String_Metotlar_Concat.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Concat\Hazir_String_Metotlar_Concat\obj\Debug\Hazir_String_Metotlar_Concat.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Concat\Hazir_String_Metotlar_Concat\obj\Debug\Hazir_String_Metotlar_Concat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Concat\Hazir_String_Metotlar_Concat\obj\Debug\Hazir_String_Metotlar_Concat.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Concat\Hazir_String_Metotlar_Concat\obj\Debug\Hazir_String_Metotlar_Concat.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Hazir_String_Metotlar_Concat\Hazir_String_Metotlar_Concat\obj\Debug\Hazir_String_Metotlar_Concat.pdb
