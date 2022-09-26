@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\8- Hazir_String_Metotlar_IsNullOrEmpty\Hazir_String_Metotlar_IsNullOrEmpty\bin\Debug\Hazir_String_Metotlar_IsNullOrEmpty.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\8- Hazir_String_Metotlar_IsNullOrEmpty\Hazir_String_Metotlar_IsNullOrEmpty\bin\Debug\Hazir_String_Metotlar_IsNullOrEmpty.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\8- Hazir_String_Metotlar_IsNullOrEmpty\Hazir_String_Metotlar_IsNullOrEmpty\bin\Debug\Hazir_String_Metotlar_IsNullOrEmpty.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\8- Hazir_String_Metotlar_IsNullOrEmpty\Hazir_String_Metotlar_IsNullOrEmpty\obj\Debug\Hazir_String_Metotlar_IsNullOrEmpty.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\8- Hazir_String_Metotlar_IsNullOrEmpty\Hazir_String_Metotlar_IsNullOrEmpty\obj\Debug\Hazir_String_Metotlar_IsNullOrEmpty.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\8- Hazir_String_Metotlar_IsNullOrEmpty\Hazir_String_Metotlar_IsNullOrEmpty\obj\Debug\Hazir_String_Metotlar_IsNullOrEmpty.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\8- Hazir_String_Metotlar_IsNullOrEmpty\Hazir_String_Metotlar_IsNullOrEmpty\obj\Debug\Hazir_String_Metotlar_IsNullOrEmpty.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\8- Hazir_String_Metotlar_IsNullOrEmpty\Hazir_String_Metotlar_IsNullOrEmpty\obj\Debug\Hazir_String_Metotlar_IsNullOrEmpty.pdb
