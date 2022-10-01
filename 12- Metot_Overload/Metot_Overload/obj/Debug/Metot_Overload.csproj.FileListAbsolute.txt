@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metot_Overload\Metot_Overload\bin\Debug\Metot_Overload.exe.config
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metot_Overload\Metot_Overload\bin\Debug\Metot_Overload.exe
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metot_Overload\Metot_Overload\bin\Debug\Metot_Overload.pdb
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metot_Overload\Metot_Overload\obj\Debug\Metot_Overload.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metot_Overload\Metot_Overload\obj\Debug\Metot_Overload.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metot_Overload\Metot_Overload\obj\Debug\Metot_Overload.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metot_Overload\Metot_Overload\obj\Debug\Metot_Overload.exe
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metot_Overload\Metot_Overload\obj\Debug\Metot_Overload.pdb
