@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metotlar_Opsiyonel\Metotlar_Opsiyonel\bin\Debug\Metotlar_Opsiyonel.exe.config
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metotlar_Opsiyonel\Metotlar_Opsiyonel\bin\Debug\Metotlar_Opsiyonel.exe
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metotlar_Opsiyonel\Metotlar_Opsiyonel\bin\Debug\Metotlar_Opsiyonel.pdb
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metotlar_Opsiyonel\Metotlar_Opsiyonel\obj\Debug\Metotlar_Opsiyonel.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metotlar_Opsiyonel\Metotlar_Opsiyonel\obj\Debug\Metotlar_Opsiyonel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metotlar_Opsiyonel\Metotlar_Opsiyonel\obj\Debug\Metotlar_Opsiyonel.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metotlar_Opsiyonel\Metotlar_Opsiyonel\obj\Debug\Metotlar_Opsiyonel.exe
+C:\Users\Yonca\Desktop\CAytacHoca\forYildizYapimi\Metotlar_Opsiyonel\Metotlar_Opsiyonel\obj\Debug\Metotlar_Opsiyonel.pdb
