@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornek_console\Metot_Ornek_console\bin\Debug\Metot_Ornek_console.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornek_console\Metot_Ornek_console\bin\Debug\Metot_Ornek_console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornek_console\Metot_Ornek_console\bin\Debug\Metot_Ornek_console.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornek_console\Metot_Ornek_console\obj\Debug\Metot_Ornek_console.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornek_console\Metot_Ornek_console\obj\Debug\Metot_Ornek_console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornek_console\Metot_Ornek_console\obj\Debug\Metot_Ornek_console.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornek_console\Metot_Ornek_console\obj\Debug\Metot_Ornek_console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Metot_Ornek_console\Metot_Ornek_console\obj\Debug\Metot_Ornek_console.pdb
