@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\9- Contains_Metot\9- Contains_Metot\obj\Debug\9- Contains_Metot.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\9- Contains_Metot\9- Contains_Metot\obj\Debug\9- Contains_Metot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\9- Contains_Metot\9- Contains_Metot\obj\Debug\9- Contains_Metot.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\9- Contains_Metot\9- Contains_Metot\bin\Debug\9- Contains_Metot.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\9- Contains_Metot\9- Contains_Metot\bin\Debug\9- Contains_Metot.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\9- Contains_Metot\9- Contains_Metot\bin\Debug\9- Contains_Metot.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\9- Contains_Metot\9- Contains_Metot\obj\Debug\9- Contains_Metot.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\9- Contains_Metot\9- Contains_Metot\obj\Debug\9- Contains_Metot.pdb
