@@ -1,0 +1,7 @@
+C:\Users\CODER\source\repos\20220816_1_Odev\20220816_1_Odev\bin\Debug\20220816_1_Odev.exe.config
+C:\Users\CODER\source\repos\20220816_1_Odev\20220816_1_Odev\bin\Debug\20220816_1_Odev.exe
+C:\Users\CODER\source\repos\20220816_1_Odev\20220816_1_Odev\bin\Debug\20220816_1_Odev.pdb
+C:\Users\CODER\source\repos\20220816_1_Odev\20220816_1_Odev\obj\Debug\20220816_1_Odev.csprojAssemblyReference.cache
+C:\Users\CODER\source\repos\20220816_1_Odev\20220816_1_Odev\obj\Debug\20220816_1_Odev.csproj.CoreCompileInputs.cache
+C:\Users\CODER\source\repos\20220816_1_Odev\20220816_1_Odev\obj\Debug\20220816_1_Odev.exe
+C:\Users\CODER\source\repos\20220816_1_Odev\20220816_1_Odev\obj\Debug\20220816_1_Odev.pdb
