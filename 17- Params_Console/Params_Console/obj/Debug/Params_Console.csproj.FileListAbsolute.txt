@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Params_Console\Params_Console\bin\Debug\Params_Console.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Params_Console\Params_Console\bin\Debug\Params_Console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Params_Console\Params_Console\bin\Debug\Params_Console.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Params_Console\Params_Console\obj\Debug\Params_Console.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Params_Console\Params_Console\obj\Debug\Params_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Params_Console\Params_Console\obj\Debug\Params_Console.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Params_Console\Params_Console\obj\Debug\Params_Console.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Params_Console\Params_Console\obj\Debug\Params_Console.pdb
