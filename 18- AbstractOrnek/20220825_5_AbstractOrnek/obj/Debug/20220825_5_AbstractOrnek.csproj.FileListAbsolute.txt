@@ -1,0 +1,7 @@
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_5_AbstractOrnek\20220825_5_AbstractOrnek\bin\Debug\20220825_5_AbstractOrnek.exe.config
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_5_AbstractOrnek\20220825_5_AbstractOrnek\bin\Debug\20220825_5_AbstractOrnek.exe
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_5_AbstractOrnek\20220825_5_AbstractOrnek\bin\Debug\20220825_5_AbstractOrnek.pdb
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_5_AbstractOrnek\20220825_5_AbstractOrnek\obj\Debug\20220825_5_AbstractOrnek.csprojAssemblyReference.cache
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_5_AbstractOrnek\20220825_5_AbstractOrnek\obj\Debug\20220825_5_AbstractOrnek.csproj.CoreCompileInputs.cache
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_5_AbstractOrnek\20220825_5_AbstractOrnek\obj\Debug\20220825_5_AbstractOrnek.exe
+C:\Users\CODER\source\repos\20220503_OnlineYazilimUzmanligi\20220825_5_AbstractOrnek\20220825_5_AbstractOrnek\obj\Debug\20220825_5_AbstractOrnek.pdb
