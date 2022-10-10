@@ -1,0 +1,8 @@
+C:\Users\Yonca\Desktop\Genel Tekrar\Enum_Ornek\Enum_Ornek\obj\Debug\Enum_Ornek.csproj.AssemblyReference.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Enum_Ornek\Enum_Ornek\obj\Debug\Enum_Ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Enum_Ornek\Enum_Ornek\obj\Debug\Enum_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Yonca\Desktop\Genel Tekrar\Enum_Ornek\Enum_Ornek\bin\Debug\Enum_Ornek.exe.config
+C:\Users\Yonca\Desktop\Genel Tekrar\Enum_Ornek\Enum_Ornek\bin\Debug\Enum_Ornek.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Enum_Ornek\Enum_Ornek\bin\Debug\Enum_Ornek.pdb
+C:\Users\Yonca\Desktop\Genel Tekrar\Enum_Ornek\Enum_Ornek\obj\Debug\Enum_Ornek.exe
+C:\Users\Yonca\Desktop\Genel Tekrar\Enum_Ornek\Enum_Ornek\obj\Debug\Enum_Ornek.pdb
